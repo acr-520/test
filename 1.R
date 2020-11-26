@@ -54,5 +54,4 @@ RÊÇ¸öºÏ×÷¼Æ»®£¬ÓÐÐí¶àÈËÎªÖ®×ö³öÁË¹±Ï×.
 > 
   > setwd('C:/Users/DELL/Desktop/Hands-on 01')
 > library(xpose4)
-Error in library(xpose4) : ²»´æÔÚ½Ð'xpose4'Õâ¸öÃû×ÖµÄ³Ì¼­°ü
-Í£Ö¹Ö´ÐÐ
+Error in library(xpose4) : 
